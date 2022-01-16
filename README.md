@@ -6,6 +6,7 @@ Placa Mãe: MACHINIST X99-RS9
 Processador: Intel Xeon E5-2670 v3, 2300 MHz (12C/24T)
 Vídeo: Sapphire RX 460 Graphics (4 GB)
 Áudio: Realtek ALC662
+WiFi Card: Fenvi FV-A4360 Chipset: Broadcom BCM94360CD
 SMBIOS: iMacPro1,1
 macOS: Big Sur ou superiores
 Opencore: 0.7.6
