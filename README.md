@@ -10,4 +10,9 @@ WiFi Card: Fenvi FV-A4360 Chipset: Broadcom BCM94360CD
 SMBIOS: iMacPro1,1
 macOS: Big Sur ou superiores
 Opencore: 0.7.6
+
+Update 20221016
+Vídeo: AMD Radeon RX 580 (8 GB)
+macOS: Monterey ou superiores
+Opencore: 0.8.5
 ```
