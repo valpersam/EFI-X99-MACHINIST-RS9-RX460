@@ -1,4 +1,4 @@
-# EFI-X99-MACHINIST-RS9-RX460
+# EFI-X99-MACHINIST-RS9-RX460/RX580
 
 ```bash
 Plataforma: Desktop | Intel Xeon
